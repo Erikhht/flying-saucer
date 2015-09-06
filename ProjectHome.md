@@ -1,3 +1,5 @@
+![](https://code.google.com/p/flying-saucer/logo?cct=1299674134) 
+
 ## Welcome to Flying Saucer ##
 Flying Saucer takes XML or XHTML and applies CSS 2.1-compliant stylesheets to it, in order to render to PDF (via iText), images, and on-screen using Swing or SWT. The library implements (basically) the entirety of CSS 2.1 and aims to be fully compliant with the W3C specification; it includes a small handful of CSS 3 features.
 
